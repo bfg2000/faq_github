@@ -3,7 +3,9 @@
 
 <b>Как вставить картинку в README.md на GitHub</b>
 
+```
 ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+```
 
 - {username} — ваш ник на ГитХабе;
 - {repository} — репозиторий где хранятся картинки;
